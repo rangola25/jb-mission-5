@@ -1,0 +1,13 @@
+.container > h3 {
+    justify-self: center;
+    align-items: center;
+}
+
+.container > p {
+    justify-self: center;
+    align-items: center;
+}
+
+.container {
+    margin-top: 3%;
+}
